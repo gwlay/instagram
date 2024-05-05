@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#login-section .login .image img {
+  max-width: 100%;
+  width: 175px;
+  height: 55px;
+}
+
+.login-box {
+  border: 1px solid #CFCFCF;
+  width: 350px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 30px;
+}
+.login-box img {
+  width: 175px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 80px;
+}
+.login-box input {
+  text-align: center;
+  width: 300px;
+  margin: 0px 30px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+  border: 1px solid #CFCFCF;
+}
+.login-box button {
+  margin: 0px 30px;
+  margin-bottom: 10px;
+  text-align: center;
+  width: 300px;
+  background-color: #58B9E0;
+  border: none;
+  border-radius: 3px;
+  color: #fff;
+}
+.login-box p {
+  color: #AFC2CA;
+}
+.login-box .forgot-password {
+  font-size: 12px;
+  color: #00376b;
+  margin-top: 20px;
+}
+.login-box a {
+  text-decoration: none;
+}
+.login-box i {
+  color: #135F80;
+  display: inline;
+}
+.login-box span {
+  color: #385185;
+  display: inline;
+}
+
+.sign-up {
+  border: 1px solid #CFCFCF;
+  width: 350px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  margin-top: 7px;
+  padding: 10px 0px;
+}
+.sign-up span {
+  font-size: 14px;
+  color: black;
+  margin: 15px 0px;
+}
+.sign-up a {
+  text-decoration: none;
+  font-size: 14px;
+  color: #0095f6;
+  margin: 15px 0px;
+}
+
+.get-app {
+  font-size: 14px;
+  margin: 10px 126px;
+}/*# sourceMappingURL=style.css.map */
